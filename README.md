@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul </h1>
+<h1 align="center"><a href="https://magento.stackexchange.com/users/84221/rahul-barot"><img src="https://magento.stackexchange.com/users/flair/84221.png?theme=dark" width="208" height="58" alt="profile for Rahul Barot at Magento Stack Exchange, Q&amp;A for users of the Magento e-Commerce platform" title="profile for Rahul Barot at Magento Stack Exchange, Q&amp;A for users of the Magento e-Commerce platform"></a></h1>
 <h3 align="center">A passionate Magento developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbarot&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbarot" /> </p>
